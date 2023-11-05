@@ -1,5 +1,17 @@
 # Organization Application UI UX Research Website Application 
 
+# Stats
+[![GitHub stars](https://img.shields.io/github/stars/Application-UI-UX/organization-application-ui-ux-website-application.svg?style=social)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Application-UI-UX/organization-application-ui-ux-website-application.svg?style=social)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Application-UI-UX/organization-application-ui-ux-website-application.svg?style=social)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/watchers)
+
+[![GitHub issues](https://img.shields.io/github/issues/Application-UI-UX/organization-application-ui-ux-website-application.svg)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Application-UI-UX/organization-application-ui-ux-website-application.svg)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/pulls)
+[![GitHub license](https://img.shields.io/github/license/Application-UI-UX/organization-application-ui-ux-website-application.svg)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/blob/main/LICENSE)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Application-UI-UX/organization-application-ui-ux-website-application.svg)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application/commits)
+[![Visitor & Github Clones](https://img.shields.io/badge/dynamic/json?color=2e8b57&label=Visitor%20%26%20GitHub%20Clones&query=$.count&url=https://api.github.com/repos/Application-UI-UX/organization-application-ui-ux-website-application/traffic)](https://github.com/Application-UI-UX/organization-application-ui-ux-website-application)
+
 
 ![Screenshot](Application-Screenshot1.png)
 
